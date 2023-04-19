@@ -1,0 +1,11 @@
+
+light_control_system/.vs/light_control_system/v14/.atsuo
+*.o
+*.d
+*.srec
+*.map
+*.lss
+*.hex
+*.elf
+*.srec
+SERIAL COMM IDEAS.txt
